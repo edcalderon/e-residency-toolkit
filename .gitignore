@@ -1,0 +1,10 @@
+*.asice
+*.bdoc
+*.ddoc
+*.cdoc
+*.p12
+*.pfx
+*.pem
+*PIN*
+*PUK*
+.DS_Store
