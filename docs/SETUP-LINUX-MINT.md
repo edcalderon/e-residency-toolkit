@@ -55,7 +55,7 @@ Check yours with: `lsb_release -a`. Mint 22.x reports codename `zena` (= Ubuntu 
 On the **new** machine, from this folder:
 
 ```bash
-git clone https://github.com/<your-user>/e-residency-toolkit.git
+git clone https://github.com/edcalderon/e-residency-toolkit.git
 cd e-residency-toolkit
 chmod +x scripts/*.sh
 ./scripts/install-estonia-eid.sh

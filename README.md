@@ -7,7 +7,7 @@ Replicable setup for **Estonian e-Residency / Digi-ID / ID-card** on **Linux Min
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-user>/e-residency-toolkit.git
+git clone https://github.com/edcalderon/e-residency-toolkit.git
 cd e-residency-toolkit
 chmod +x scripts/*.sh
 ./scripts/install-estonia-eid.sh
